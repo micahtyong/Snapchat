@@ -2,8 +2,7 @@
 //  FeedDisplayViewController.swift
 //  Snapchat
 //
-//  Created by Micah Yong on 3/6/19.
-//  Copyright © 2019 iosdecal. All rights reserved.
+//  Created by Micah Yong on 3/6/19. All rights reserved.
 //
 
 import UIKit

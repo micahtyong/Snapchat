@@ -3,7 +3,7 @@
 //  Snapchat
 //
 //  Created by David [Entei] Xiong on 2/28/19.
-//  Copyright © 2019 iosdecal. All rights reserved.
+//  All rights reserved.
 //
 
 import Foundation
