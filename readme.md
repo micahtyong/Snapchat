@@ -1,7 +1,6 @@
 # Snapchat #
 
 <img src = "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/1-snapchat.jpg" width = "450">
-![Snap Inc. Logo](https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/1-snapchat.jpg)
 
 Snapchat is a multimedia messaging app used globally, created by Evan Spiegel, Bobby Murphy, and Reggie Brown, former students at Stanford University, and developed by Snap Inc., originally Snapchat Inc.
 
