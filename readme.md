@@ -6,6 +6,8 @@ Snapchat is a multimedia messaging app used globally, created by Evan Spiegel, B
 
 This is a low-grade version of Snapchat **designed for educational purposes** with functionality and design modeled from the original Snapchat. 
 
+See a video demo here: https://www.youtube.com/watch?v=mnHNU1qI45I&feature=youtu.be 
+
 ## Motivation ##
 
 The motive behind this project was to take a successful and complex social media platform, then rebuild and maintain it from the ground up in order to learn the fundamentals behind designing a social media app like Snapchat. The source code in this project was written in a well-documented fashion with the intention that it would be viewed by others. 
