@@ -16,10 +16,10 @@ The project is at it's state before Firebase authentication. All fundamental UI 
 
 ## Screenshots ##
 
-![](Demo/login.png)
-![](Demo/ChooseImage.png)
-![](Demo/PostImage.png)
-![](Demo/DiscoveryFeed2.png)
+<img src = "Demo/login.png" width = "100">
+<img src = "Demo/ChooseImage.png" width = "100">
+<img src = "Demo/PostImage.png" width = "100">
+<img src = "Demo/DiscoveryFeed2.png" width = "100">
 
 ## Technology and frameworks used ##
 
