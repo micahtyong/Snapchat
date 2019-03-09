@@ -1,6 +1,6 @@
 # Snapchat #
 
-<div style="text-align:center"><img src = "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/1-snapchat.jpg" width = "450"></div>
+<div style="text-align:center"><img src = "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/1-snapchat.jpg" width = "450" /></div>
 
 <img src = "https://3c1703fe8d.site.internapcdn.net/newman/gfx/news/hires/2017/1-snapchat.jpg" width = "450">
 
