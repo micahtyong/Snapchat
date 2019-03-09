@@ -16,7 +16,10 @@ The project is at it's state before Firebase authentication. All fundamental UI 
 
 ## Screenshots ##
 
-Coming soon.
+![](Demo/login.png)
+![](Demo/ChooseImage.png)
+![](Demo/PostImage.png)
+![](Demo/DiscoveryFeed2.png)
 
 ## Technology and frameworks used ##
 
