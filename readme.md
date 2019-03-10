@@ -51,7 +51,7 @@ The project is at it's state before Firebase authentication. All fundamental UI 
 
 ## Contribute ## 
 
-Once this project finishes entirely, I'd like to create a YouTube series on how you can implement it yourself. If this is something that might interest you, email me at micahtyong@berkeley.com !
+Once this project finishes entirely, I'd like to create some more official documentation on how you can implement it yourself. If this is something that might interest you, email me at micahtyong@berkeley.com !
 
 ## Credits ## 
 
