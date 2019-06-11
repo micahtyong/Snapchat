@@ -58,3 +58,6 @@ Once this project finishes entirely, I'd like to create some more official docum
 Initial project idea and spec credits go to Berkeley's iOS Decal 2019. 
 Project idea is entirely inspired by Snap Inc's Snapchat. All idea and intellectual property rights go to Snap Inc. 
  
+## Support ## 
+
+If you find any of my projects helpful/inspiring and would like to support me, please do so [here](https://venmo.com/Micah-Yong "Venmo")
